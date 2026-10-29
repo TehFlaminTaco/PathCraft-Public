@@ -1,0 +1,20 @@
+LevelledWorld: License
+
+Copyright (c) 2026 ata.co (https://ata.co). All rights reserved.
+
+Draft. Review this before the first public release.
+
+This notice covers LevelledWorld's source code, assets and data: everything
+under src/levelledworld/, and the released LevelledWorld jar. No license to
+use, copy, modify, merge, publish, distribute, sublicense or sell them is
+granted, except the additional permissions in PERMISSIONS.md.
+
+This notice does not cover:
+
+- The documentation in docs/, which is under CC BY-NC 4.0
+  (LICENSE-ASSETS.txt). That includes the cross-mod contract in
+  docs/INTEROP.md, which anyone may read and implement from software under
+  any license (PERMISSIONS.md, item 4).
+- Third-party material, which stays under its own license (NOTICE.md).
+- PathCraft, which is a separate work under its own licenses (LICENSE.md and
+  LICENSE-ASSETS.txt).
