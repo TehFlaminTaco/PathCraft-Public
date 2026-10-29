@@ -2,7 +2,7 @@
 
 Two Minecraft 1.20.1 Forge mods by ata.co.
 
-- **[PathCraft RPG](https://www.curseforge.com/minecraft/mc-mods/pathcraft)**: tabletop-style characters for Minecraft, with races, classes, feats, skills and spells, levels 1 to 20.
+- **[PathCraft RPG](https://www.curseforge.com/minecraft/mc-mods/pathcraft-rpg)**: tabletop-style characters for Minecraft, with races, classes, feats, skills and spells, levels 1 to 20.
 - **[LevelledWorld](https://www.curseforge.com/minecraft/mc-mods/levelledworld)**: mobs get a level from where they spawn. Deeper and further is harder, and spawn is always safe.
 
 ## Permissions
