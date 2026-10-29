@@ -1,7 +1,5 @@
 # Additional Permissions
 
-> Draft. Review this before the first public release.
-
 The licensor grants the following permissions in addition to those in [LICENSE.md](LICENSE.md) (PolyForm Noncommercial 1.0.0) and [LICENSE-ASSETS.txt](LICENSE-ASSETS.txt) (CC BY-NC 4.0) for PathCraft, and in addition to [LICENSE-LEVELLEDWORLD.txt](LICENSE-LEVELLEDWORLD.txt) (all rights reserved) for LevelledWorld. These grants apply to unmodified release builds of PathCraft and LevelledWorld published by the licensor. For LevelledWorld they are the only permissions granted. If anything here conflicts with those licenses, these grants take precedence only to the extent of the conflict.
 
 1. **Modpacks.** You may include unmodified release builds in modpacks that are free to download. This covers packs on CurseForge, Modrinth, FTB, Technic, ATLauncher and similar platforms, including packs whose authors receive platform rewards or revenue shares. Where the platform supports it, link to the official download instead of re-hosting the file.
